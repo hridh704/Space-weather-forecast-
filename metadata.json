@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Forecast",
+  "description": "A futuristic weather application that visualizes and compares Earth and Space weather data using a sleek, glassmorphism-inspired UI with neon accents. It provides real-time metrics, forecasts, and educational insights into how both cosmic and terrestrial weather affect us.",
+  "requestFramePermissions": []
+}
