@@ -1,8 +1,7 @@
 
 import React from 'react';
 import type { WeatherData, EarthWeatherData, SpaceWeatherData, EarthForecast, SpaceForecast, ChartDataPoint } from '../types';
-// Using the user's provided personal API key.
-const NASA_API_KEY = '00xMw6Bfm995ZG2luXDlJvX54do8p0FMePETEEEF';
+import { NASA_API_KEY } from '../config';
 import { SunIcon, CloudIcon, CloudDrizzleIcon } from '../components/icons';
 
 /**
